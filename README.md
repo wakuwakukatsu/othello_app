@@ -1,24 +1,12 @@
-# README
+# オセロ通信対戦
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## 概要
 
-Things you may want to cover:
+これはリアルタイム通信によるオセロ対戦ができるアプリです。  
+合言葉で対戦相手とマッチングします。
 
-* Ruby version
+## バージョン
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+ruby 3.1.2  
+Rails 7.0.4  
+TypeScript 5.2.2
